@@ -19,7 +19,7 @@ Includes buttons, cards, loaders, and other elements with nautical, pirate, and 
 
 
 <div align="center">
-  <img src="https://static.wikia.nocookie.net/onepiece/images/8/8d/One_Piece.png/revision/latest/scale-to-width-down/1200?cb=20131217174846&path-prefix=es" alt="One Piece Logo" width="400" style="max-width:100%;">
+  <img src="https://static.wikia.nocookie.net/featteca/images/b/bf/One_Piece_logo_.png/revision/latest/scale-to-width-down/600?cb=20210911025828&path-prefix=es" alt="One Piece Logo" width="400" style="max-width:100%;">
 </div>
 ---
 
