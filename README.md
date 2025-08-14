@@ -43,3 +43,6 @@ Incluye botones, tarjetas, cargadores y otros elementos con estilos náuticos, p
 - ⚙️ **Código limpio y reutilizable**: HTML + CSS puros (próximamente versiones Tailwind/React).
 - 🏴‍☠️ **Estilos animados**: Olas, banderas, monedas, fuego y más.
 - 🆓 **Licencia MIT**: Uso gratuito para proyectos personales o comerciales.
+
+
+> Animación original por [Toei Animation](https://www.toei-animation.com)
