@@ -21,7 +21,7 @@ Includes buttons, cards, loaders, and other elements with nautical, pirate, and 
 - 🆓 **MIT License**: Free to use for personal or commercial projects.
 
 
-ffmpeg -i original.gif -vf "fps=12,scale=800:-1" optimized.gif
+
 <div align="center">
   <!-- GIF animado centrado con borde temático -->
   <img src="https://i.pinimg.com/originals/d5/4f/ee/d54fee7cb314c542dfe75663161c1bb4.gif" alt="Logo animado de One Piece" width="450" style="border-radius: 10px; border: 3px solid #D72323; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 20px 0;">
