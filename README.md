@@ -3,7 +3,7 @@
 **[English](#english-version) | [Español](#versión-en-español)**
 
 ---
-
+<a id="english-version"></a>
 ## English Version
 
 **A collection of user interface components inspired by the world of One Piece**, designed for [UIverse](https://uiverse.io) and ready to use in web projects.  
@@ -19,4 +19,17 @@ Includes buttons, cards, loaders, and other elements with nautical, pirate, and 
 
 ---
 
-### 📂 Project structure
+<a id="versión-en-español"></a>
+## Spanish Version
+
+**Una colección de componentes de interfaz de usuario inspirados en el mundo de One Piece**, diseñados para [UIverse](https://uiverse.io) y listos para usar en proyectos web.
+
+Incluye botones, tarjetas, cargadores y otros elementos con estilos náuticos, piratas y de anime.
+
+---
+
+### 🌟 Características
+- 🎨 **Tema de One Piece**: Colores, iconos y efectos inspirados en el universo de Eiichiro Oda.
+- ⚙️ **Código limpio y reutilizable**: HTML + CSS puros (próximamente versiones Tailwind/React).
+- 🏴‍☠️ **Estilos animados**: Olas, banderas, monedas, fuego y más.
+- 🆓 **Licencia MIT**: Uso gratuito para proyectos personales o comerciales.
