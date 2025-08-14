@@ -17,6 +17,10 @@ Includes buttons, cards, loaders, and other elements with nautical, pirate, and 
 - 🏴‍☠️ **Animated styles**: Waves, flags, coins, fire, and more.
 - 🆓 **MIT License**: Free to use for personal or commercial projects.
 
+
+<div align="center">
+  <img src="https://static.wikia.nocookie.net/onepiece/images/8/8d/One_Piece.png/revision/latest/scale-to-width-down/1200?cb=20131217174846&path-prefix=es" alt="One Piece Logo" width="400" style="max-width:100%;">
+</div>
 ---
 
 <a id="versión-en-español"></a>
