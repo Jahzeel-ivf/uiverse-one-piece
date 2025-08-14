@@ -1,4 +1,7 @@
 # ⚓ One Piece UI Components
+<div align="center">
+  <img src="https://static.wikia.nocookie.net/featteca/images/b/bf/One_Piece_logo_.png/revision/latest/scale-to-width-down/600?cb=20210911025828&path-prefix=es" alt="One Piece Logo" width="400" style="max-width:100%;">
+</div>
 
 **[English](#english-version) | [Español](#versión-en-español)**
 
@@ -18,9 +21,7 @@ Includes buttons, cards, loaders, and other elements with nautical, pirate, and 
 - 🆓 **MIT License**: Free to use for personal or commercial projects.
 
 
-<div align="center">
-  <img src="https://static.wikia.nocookie.net/featteca/images/b/bf/One_Piece_logo_.png/revision/latest/scale-to-width-down/600?cb=20210911025828&path-prefix=es" alt="One Piece Logo" width="400" style="max-width:100%;">
-</div>
+
 ---
 
 <a id="versión-en-español"></a>
