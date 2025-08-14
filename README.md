@@ -43,6 +43,8 @@ Incluye botones, tarjetas, cargadores y otros elementos con estilos náuticos, p
 - ⚙️ **Código limpio y reutilizable**: HTML + CSS puros (próximamente versiones Tailwind/React).
 - 🏴‍☠️ **Estilos animados**: Olas, banderas, monedas, fuego y más.
 - 🆓 **Licencia MIT**: Uso gratuito para proyectos personales o comerciales.
-
+  
+<img src="https://i.redd.it/tl60shdch52f1.gif" alt="Logo animado de One Piece" width="450" style="border-radius: 10px; border: 3px solid #D72323; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 20px 0;">
+</div>
 
 > Animación original por [Toei Animation](https://www.toei-animation.com)
